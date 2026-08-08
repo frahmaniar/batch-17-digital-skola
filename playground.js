@@ -1,3 +1,5 @@
 let nama = "Nama saya Fina"
+"hapus ini"
 
-console.console.log(nama);
+console.log(nama);
+
